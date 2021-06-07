@@ -1,0 +1,3 @@
+maleTop 100 maletrouser 198 maleshoe 398 
+femaleTop 300 femaletrouser 100 femaleshoe 10 
+kidTop 20 kidtrouser 30 kidshoe 380 
